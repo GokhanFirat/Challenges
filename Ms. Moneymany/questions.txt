@@ -1,0 +1,18 @@
+*** These questions are included at http://forensicscontest.com/2010/04/01/ms-moneymanys-mysterious-malware ***
+
+
+1. As part of the infection process, Ms. Moneymany’s browser downloaded two Java applets. What were the names of the two .jar files that implemented these applets?
+
+2. What was Ms. Moneymany’s username on the infected Windows system?
+
+3. What was the starting URL of this incident? In other words, on which URL did Ms. Moneymany probably click?
+
+4. As part of the infection, a malicious Windows executable file was downloaded onto Ms. Moneymany’s system. What was the file’s MD5 hash? Hint: It ends on “91ed”.
+
+5. What is the name of the packer used to protect the malicious Windows executable? Hint: This is one of the most popular freely-available packers seen in “mainstream” malware.
+
+6. What is the MD5 hash of the unpacked version of the malicious Windows executable file?
+
+7. The malicious executable attempts to connect to an Internet host using an IP address which is hard-coded into it (there was no DNS lookup). What is the IP address of that Internet host?
+
+
